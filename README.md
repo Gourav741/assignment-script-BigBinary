@@ -6,7 +6,10 @@ Test script was written using Cypress testing framework.
 
 The folder structure in which the main test script(assignment.spec.js) resides is:
 
--cypress -integration -my-tests -assignment.spec.js
+-cypress 
+  >> -integration 
+    >> -my-tests 
+      >> -assignment.spec.js
 
 The test cases are written for following steps:
 
